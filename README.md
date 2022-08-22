@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Rodrigoac3vedo@gmail.com or Roddflay on IG.
 - 😄 Pronouns: They/them
 - ⚡ Fun fact: I love finger skate xD
--->
+
