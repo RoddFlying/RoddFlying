@@ -1,7 +1,4 @@
-### Hi there, Im Rodrigo Acevedo from Argentina. 👋
-
-<!--
-**RoddFlying/RoddFlying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, Im Rodrigo Acevedo from Argentina. 👋
 
 Here are some ideas to get you started:
 
